@@ -1,0 +1,9 @@
+Github Link : https://github.com/vierifath/PWEB_05111840000153
+
+
+Website Link :
+	Homepage	: http://vierifath.herokuapp.com/quiz1/
+	Profile		: http://vierifath.herokuapp.com/quiz1/profile.html
+	Hometown	: http://vierifath.herokuapp.com/quiz1/hometown.html
+	Food		: http://vierifath.herokuapp.com/quiz1/food.html
+	Tourist		: http://vierifath.herokuapp.com/quiz1/tourist.html
